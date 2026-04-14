@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-banerjee-work/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritrab.work625@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ari_tra_stic/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Aritra-221B)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.aritrab.me)
 
 <br/>
 
@@ -25,9 +25,9 @@
 
 ```yaml
 name: Aritra Banerjee
-location: Kalyani, West Bengal, India
+location: Shyamnagar, West Bengal, India
 education: BTech CSE (Class of 2027) @ JIS College of Engineering
-current_role: Developer @ Parot (parot.dev)
+current_role: Founder @ Parot ([parot.dev](https://parot.dev)) & Lead Software Engineer @ [ChordsCraft Institute of Music](https://chordscraftinstituteofmusic.com)
 
 focus_areas:
   - ML systems that ship to production, not just notebooks
@@ -35,11 +35,12 @@ focus_areas:
   - Data workflows designed for real users
 
 publications:
-  - "Advances in TinyML: A Systematic Review" (Book Chapter)
+  - "Advances in TinyML: A Systematic Review Of Architectures, Algorithms, And Innovations" (Book Chapter) published by Scrivener Publication
 
 fun_facts:
   - Obsessed with mathematics and finding patterns in messy data
   - Photographer who sees the world through frames and features
+  - Content Creator related to tech and business
 ```
 
 ---
@@ -58,28 +59,41 @@ fun_facts:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 #### Machine Learning & Data Science
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFD21E?style=for-the-badge&logo=wandb&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)
 
 #### Data Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 #### Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### Tools & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF422C?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181717?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-47A248?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -113,6 +127,8 @@ Premium online music school offering Trinity, ABRSM & RSL certifications. Built 
 Automated Medical Assistant that cleanses diagnostic datasets, reducing inconsistencies by **40%**. Integrated alert protocols and NLP-powered medical chatbot.
 
 `Python` `ML` `NLP`
+
+[![Repo](https://img.shields.io/badge/📂_Repository-181717?style=flat-square)](https://github.com/SOUGATA2205/MediLink)
 
 </td>
 </tr>
