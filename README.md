@@ -69,7 +69,7 @@ fun_facts:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=colab&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-FF6F00?style=for-the-badge&logo=colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)
 
@@ -184,9 +184,13 @@ Transformer-based chatbot using Hugging Face models. Reduced user query response
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aritra-221B&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
+<a href="https://github.com/Aritra-221B">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aritra-221B&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+</a>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-221B&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<a href="https://github.com/Aritra-221B">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-221B&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
 
 <br/><br/>
 
