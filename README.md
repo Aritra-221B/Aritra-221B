@@ -27,17 +27,16 @@
 name: Aritra Banerjee
 location: Shyamnagar, West Bengal, India
 education: BTech CSE (Class of 2027) @ JIS College of Engineering
-current_role: Founder @ Parot ([parot.dev](https://parot.dev)) &
-            Lead Software Engineer @ [ChordsCraft Institute of Music](https://chordscraftinstituteofmusic.com)
+current_role: Founder @ Parot [parot.dev] & Lead Software Engineer @ ChordsCraft Institute of Music [chordscraftinstituteofmusic.com]
 
 focus_areas:
   - ML systems that ship to production, not just notebooks
   - Frontend interfaces with product-level polish
   - Data workflows designed for real users
 
-publications:
-  - "Advances in TinyML: A Systematic Review Of Architectures,
-  Algorithms, And Innovations" (Book Chapter) published by Scrivener Publication
+scopus indexed publications:
+  - "Advances in TinyML: A Systematic Review Of Architectures,Algorithms, And Innovations" (Book Chapter)
+    published by Scrivener Publication
 
 fun_facts:
   - Obsessed with mathematics and finding patterns in messy data
